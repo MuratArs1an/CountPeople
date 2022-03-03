@@ -1,0 +1,14 @@
+button{
+    background-color: yellowgreen;
+    color: white;
+    border-radius: 5px;
+    border-style: double;
+}
+
+#clear-btn{
+    background-color: red;
+}
+
+#save{
+    background-color: aquamarine;
+}
